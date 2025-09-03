@@ -176,7 +176,7 @@
 </a>
 
 <br>
-<a href="docs/Using/basic_information/quick_start/index.md" style="display: block; padding: 1.2rem; background-color: #fdfdfe; border: 1px solid #d4d5d8; border-radius: 8px; text-decoration: none; color: #474748; margin: 1rem 0;">
+<a href="./Using/basic_information/quick_start/index.md" style="display: block; padding: 1.2rem; background-color: #fdfdfe; border: 1px solid #d4d5d8; border-radius: 8px; text-decoration: none; color: #474748; margin: 1rem 0;">
     <strong>📚 Быстрый старт </strong>
     <br>
     <span>здесь вы сможете попрактиковаться и с легкостью создать свой первый несложный рабочий процесс.</span>
