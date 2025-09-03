@@ -169,7 +169,7 @@
     <span>в этом руководстве вы найдете подробное описание рабочих групп: зачем они нужны, какие бывают и т.п.</span>
 </a>
 <br>
-<a href="./pricing_plans/index.md" style="display: block; padding: 1.2rem; background-color: #fdfdfe; border: 1px solid #d4d5d8; border-radius: 8px; text-decoration: none; color: #474748; margin: 1rem 0;">
+<a href="../pricing_plans/index.md" style="display: block; padding: 1.2rem; background-color: #fdfdfe; border: 1px solid #d4d5d8; border-radius: 8px; text-decoration: none; color: #474748; margin: 1rem 0;">
     <strong>📚 Лицензии </strong>
     <br>
     <span>в этом разделе вы сможете подобрать для себя оптимальный тарифный план.</span>
